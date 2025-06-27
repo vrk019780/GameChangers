@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TRINITI - Software Training Institution</title>
+    <title>DELLOIT - Software Training Institution</title>
     <style>
         /* Reset and Base Styles */
         * {

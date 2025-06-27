@@ -617,7 +617,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">My <span>FutureHub</span></a>
+            <a href="#" class="logo">TRIINITI <span>Trainings</span></a>
             <button class="mobile-menu-btn" id="mobileMenuBtn">
                 <i class="fas fa-bars"></i>
             </button>

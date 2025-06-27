@@ -945,7 +945,7 @@
                             </div>
                             <div class="contact-text">
                                 <h4>Email</h4>
-                                <p><a href="mailto:info@myfuturehub.com">info@myfuturehub.com</a></p>
+                                <p><a href="mailto:info@mytriniti123.com">info@myfuturehub.com</a></p>
                             </div>
                         </div>
                     </div>
